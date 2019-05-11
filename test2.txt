@@ -17,3 +17,6 @@ Git tracks changes of files.
 dev branch commit
 
 master feature commit 
+
+
+dev commit is god
